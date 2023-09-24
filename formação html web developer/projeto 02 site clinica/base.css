@@ -28,18 +28,20 @@ th{
 }
 .menu {
     width: 15%;
-    background-color: rgb(42, 181, 212);
+    background-color: rgb(166, 180, 231);
     padding: 10px 20px 0px;
 }
     a:link, a:visited {
-        text-decoration: none
+        text-decoration: underline;
+        color:rgb(11, 25, 118)
         }
     a:hover {
         text-decoration: underline;
-        color: rgb(47, 115, 241)
+        color: rgb(50, 135, 184)
         }
     a:active {
-        text-decoration: none
+        text-decoration: underline;
+        color:rgb(21, 152, 178)
         }
 .header {
     background-color: rgb(255, 255, 255);
@@ -51,6 +53,6 @@ th{
     padding: 20px;
 }
 .footer {
-    background-color: rgb(2, 120, 147);
+    background-color: rgb(224, 210, 108);
     min-height: 150px;
 }
